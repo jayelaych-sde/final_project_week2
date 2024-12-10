@@ -1721,7 +1721,6 @@ footer {
   }
 
   .footer__columns {
-    flex-wrap: nowrap;
     justify-content: center;
   }
 
