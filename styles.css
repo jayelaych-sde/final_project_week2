@@ -828,7 +828,7 @@ header .row {
   );
 }
 
-.plan:nth-child() {
+.plan:nth-child(odd) {
   background-color: white;
 }
 
